@@ -1,0 +1,1 @@
+# Print-the-following-pattern-for-the-given-N-times-of-rows.
